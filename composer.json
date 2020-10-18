@@ -1,0 +1,15 @@
+{
+    "name": "ronaldolopes/mfw",
+    "authors": [
+        {
+            "name": "Ronaldo Lopes",
+            "email": "ronaldolimalopes@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ronaldo\\":"src"
+        }
+    }
+}
